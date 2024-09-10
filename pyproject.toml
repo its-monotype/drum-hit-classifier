@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "drum-hit-classifier"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.12"
+librosa = "^0.10.2.post1"
+matplotlib = "^3.9.2"
+pyaudio = "^0.2.14"
+keyboard = "^0.13.5"
+sounddevice = "^0.5.0"
+wavio = "^0.0.9"
+soundcard = "^0.4.3"
+pycaw = "^20240210"
+pyaudiowpatch = "^0.2.12.6"
